@@ -15,7 +15,7 @@
     background_image = None
     background_type = transparent
     copy_on_selection = True
-    font = VT323 14
+    font = Hurmit Nerd Font Light 12
     foreground_color = "#ffffff"
     scrollbar_position = hidden
     show_titlebar = False
