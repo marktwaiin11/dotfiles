@@ -222,7 +222,7 @@ assign [class="Slack"] $workspace8
 assign [class="Spotify"] $workspace9
 assign [class="Enpass-Desktop"] $workspace10
 
-exec_always feh --bg-scale ~/.desktop.jpg
+
 exec_always --no-startup-id compton -f
 exec_always --no-startup-id synclient MaxTapTime=0
 
